@@ -1,0 +1,17 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "An import map used in the browser of shared dependencies for isomorphic microfrontends",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server './src/' -p 9041 -o --cors",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./scripts/deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "http-server": "^13.0.1"
+  }
+}
