@@ -4,16 +4,19 @@
     "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
-    "@codehub/library": "https://www.icome.cloud:8082/js/app.js",
-    "@codehub/library/": "https://www.icome.cloud:8082/js/",
-    "@codehub/art": "http://www.icome.cloud:8081/codehub-art.js",
-    "@codehub/art/": "http://www.icome.cloud:8081/",
+    "@codehub/library": "http://www.icome.cloud:8082/library/js/app.js",
+    "@codehub/library/": "http://www.icome.cloud:8082/library/js/",
+    "@codehub/art": "http://www.icome.cloud:8081/art/codehub-art.js",
+    "@codehub/art/": "http://www.icome.cloud:8081/art",
+    "@codehub/blog": "http://www.icome.cloud:8084",
+    "@codehub/blog/": "http://www.icome.cloud:8084/",
+    "@codehub/ecosphere": "http://www.icome.cloud:8085",
+    "@codehub/ecosphere/": "http://www.icome.cloud:8085/",
     "@codehub/plan": "http://www.icome.cloud:8503/main.js",
     "@codehub/plan/": "http://www.icome.cloud:8503/",
     "@codehub/laboratory": "http://www.icome.cloud:8086/dist/app.js",
     "@codehub/laboratory/": "http://www.icome.cloud:8086/dist/",
     "@codehub/root-config": "http://www.icome.cloud:9876/codehub-root-config.js",
-    "@codehub/root-config/": "http://www.icome.cloud:9876/",
-    "@angular-microfrontends/navbar": "http://www.icome.cloud:4201/main.js"
+    "@codehub/root-config/": "http://www.icome.cloud:9876/"
   }
 }
